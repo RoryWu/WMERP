@@ -1,3 +1,4 @@
-/.idea
-/dist
-/target
+/.idea/
+/dist/
+/target/
+/logs.home_IS_UNDEFINED/
